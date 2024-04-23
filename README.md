@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**VinagreDoce/VinagreDoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Jhonatan Jhair
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](http://www.alura.com.br)
+- Estou me desenvolvendo em linguagem JavaScript
+- Utiizando esse espaço para minha organização e desenvolvimento de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📫
+
+Jhoncooper186@gmail.com
+
+@jhonatanJhair
